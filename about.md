@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About this blog
+title: About the author
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+feature_image: 
 ---
 
 **Audrey Nadya Adhavati Azzahra** is a ....

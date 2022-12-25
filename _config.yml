@@ -12,7 +12,7 @@ lang: en-US
 title: "Audrey's Tour"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Audrey's tour provide you food and places recommendation"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://audreystour.github.io"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/logo.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
