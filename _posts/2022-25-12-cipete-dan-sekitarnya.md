@@ -3,7 +3,7 @@ layout: post
 title: "SORE Izakaya, Eggcetera and Supper Burger"
 description: "Culinary tour after chaotic semesters."
 date: 2022-12-25
-feature_image: images/ramen.jpg
+feature_image: assets/css/images/ramen.jpg
 tags: [culinary]
 ---
 

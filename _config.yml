@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://audreystour.github.io"
 
 # Favicon
-favicon: images/logo.png
+favicon: assets/css/images/logo.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
