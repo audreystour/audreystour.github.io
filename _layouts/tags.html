@@ -19,6 +19,7 @@ layout: default
         <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
         <ul class="archive-post-list">
         {% for post in site.tags[tag] %}
+          <img src="{{post.feature_image}}" style="height:200px"> 
           <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
         {% endfor %}
         </ul><!-- .archive-post-list -->
