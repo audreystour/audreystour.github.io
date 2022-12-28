@@ -31,9 +31,9 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about
   - text: Tags
-    url: /tags/
+    url: /tags
     
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
