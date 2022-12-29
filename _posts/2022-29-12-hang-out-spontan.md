@@ -12,9 +12,7 @@ tags: [activity]
 > *“Say yes and you'll figure it out afterwards.”* <br> ― Tina Fey
 
 Dimulai dari bangun tidur dapet *chat* dari Bima kalau dia bosan dan pengin *hang out* karena *plan* dia yang seharusnya mendadak batal. Untuk meyakinkan gue buat mau diajak *hang out* dadakan, argumen dia kira-kira begini, “Sayang, Drey, gue udah izin ke mama gue buat pergi, masa nggak dipake.” *Not the best argument I've ever heard but I said yes anyway.*
-
 <!--more-->
-
 Ketawa dikit waktu gue tanya mau *hang out* ke mana dan Bima dengan entengnya jawab kalau dia juga nggak tahu. Tapi karena gue orangnya baik hati, tidak sombong, dan dapat diandalkan, mulailah *searching* kilat di internet tentang aktivitas atau *event* menarik di Jakarta. *Shout out* untuk *platform* berita yang gue lupa namanya apa, tapi dari sana gue dapet info lagi ada *event* tahunan film Eropa gitu, namanya Europe on Screen.
 
 Singkatnya, Europe on Screen ini adalah festival film Eropa yang diadakan tahunan, mereka manayangkan film-film Eropa secara gratis tapi dengan jumlah penonton yang terbatas, ya. Di tahun 2022, festival ini dilakukannya secara *offline* dan *online*. Setahu gue mereka juga mengadakan *workshops*, diskusi, dan lain sebagainya seputar dunia perfilman. Europe on Screen ini juga diadain diberbagai tempat bahkan kota, cuma yang kami datangi itu lokasinya di Kedutaan Besar Perancis, dekat Sarinah. Nah, begitu gue kasih tahu, Bima langsung setuju buat ke sana dan kami juga pergi bareng Naznien dan Kania, tapi Kania ada acara lain dulu jadinya dia nyusul di akhir.
