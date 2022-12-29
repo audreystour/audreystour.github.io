@@ -1,9 +1,11 @@
+---
 layout: post
 title: "Journal - Spontaneous Hang Out, 10/10!"
 description: "What makes me want to start blogging."
 date: 2022-12-29
 feature_image: assets/css/images/ramen.jpg
 tags: [activity]
+---
 
 **25 Juni 2022**
 
