@@ -5,6 +5,7 @@ description: "What makes me want to start blogging."
 date: 2022-12-29
 feature_image: assets/css/images/1 - thumbnail blog spontaneous hang out.jpg
 tags: [Activity]
+comments: true
 ---
 
 **25 Juni 2022**

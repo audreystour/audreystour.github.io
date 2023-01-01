@@ -5,6 +5,7 @@ description: "First review for Canggu Bakehouse."
 date: 2023-01-01
 feature_image: assets/css/images/1 - thumbnail canggu bakehouse.jpg
 tags: [Culinary]
+comments: true
 ---
 
 Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau disuruh pilih sumber karbohidrat, urutan pertama buat gue itu nasi, disusul mie, baru roti. Salah satu alasan kenapa nggak terlalu suka roti karena bikin seret HAHAHA. Kalian begitu juga nggak, sih?
