@@ -30,7 +30,7 @@ Awalnya sempat kira akan *bad trip* karena satu, diperjalanan gue pakai ojek *on
 
 Begitu sampai di lokasi, masih ada 15-30 menit sebelum film dimulai dan karena Naznien baru selesai ngajar panahan plus belum makan dari pagi, gue dan Bima kasihan banget lihat anak satu ini kelaparan HAHAHA. Jadilah gue menyarankan untuk ke Sarinah buat beli *croissant* di Canggu Bakehouse karena kebetulan gue juga udah lama tertarik mau coba *croissant* mereka (*see my full review about them* di *posting*-an selanjutnya). Setelah melewati berbagai *scan* PeduliLindungi, ngobrol sama satpam di Kedutaan via interkom, dan lari-lari dikit karena takut ketinggalan film, gue, Naznien, dan Bima berhasil balik tepat waktu. Tapi ternyata selama film diputar, penonton nggak boleh makan ataupun minum, jadi agak sia-sia beli *croissant* dan minuman karena rencananya mau sebagai pengganti *popcorn* gitu.
 
-{% include image_caption.html imageurl="assets/css/images/4 - blog spontaneous hang out.jpg" title="Tickets" caption="Tickers" %}
+{% include image_caption.html imageurl="assets/css/images/4 - blog spontaneous hang out.jpg" title="Tickets" caption="Tickets" %}
 
 Film yang kami tonton judulnya “Freaks Out”, genrenya itu *fantasy*, *adventure*, dan drama. Menurut gue untuk filmnya aja *it was* 7/10. Tapi untuk film ditambah kenyamanan teater, *experience* bareng dua orang seru, dan jangan lupa 2 jam lebih duduk gratis, 10/10! Gue, Bima, dan Naznien bahkan setuju buat ikut *event* ini lagi karena kalau dari diri gue sendiri masih jarang banget nonton film-film Eropa dan ternyata setelah lihat beberapa film yang ditayangin sama Europe on Screen, walaupun cuma lihat sinopsis dan *trailer*-nya aja, menarik buat ditonton! Kan, kata Stacey Ryan, *“If we never try, how will we know?”*
 
@@ -46,6 +46,6 @@ Sempat dapat satu restoran yang *waiting list*-nya cuma kami aja. Aduh ini lucu 
 
 Jadi daripada makan waktu lebih banyak lagi, kami pergi dari sana dan untungnya berhasil dapat tempat di Ramen Ya! Setelah itu kami makan dengan tenang dan *happy* sambil ngobrolin banyak hal. *By the way*, rasa ramennya enak dan ngenyangin, harganya juga oke banget! Sangat rekomen buat kalian yang mungkin suatu saat mengalami rentetan kejadian seperti yang dialami gue, Naznien, Bima, dan Kania yang berakhir kelaparan dengan posisi dompet tiris.
 
-{% include image_caption.html imageurl="assets/css/images/5 - blog spontaneous hang out.jpg" title="Yey" caption="" %}
+{% include image_caption.html imageurl="assets/css/images/5 - blog spontaneous hang out.jpg" title="Yey" caption="Three Little Pigs" %}
 
 Kira-kira sekian jurnal harian untuk *hang out* dadakan edisi 22/06/2022 ini. Jangan takut untuk *hang out* spontan karena selama *hang out*-nya bareng orang-orang yang *fun* dan nyaman, *insyaallah* nggak *bad trip*. Akhir kata, *I would love to have more of spontaneous hang out with my best friends.*
