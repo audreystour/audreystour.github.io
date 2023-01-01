@@ -9,7 +9,7 @@ tags: [Culinary]
 
 Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau disuruh pilih sumber karbohidrat, urutan pertama buat gue itu nasi, disusul mie, baru roti. Salah satu alasan kenapa nggak terlalu suka roti karena bikin seret HAHAHA. Kalian begitu juga nggak, sih?
 
-*Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account (https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id")*. Percaya sama gue, *you won’t regret it.*
+*Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account [I'm an inline-style link with title](https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id")*. Percaya sama gue, *you won’t regret it.*
 <!--more-->
 
 {% include image_caption.html imageurl="assets/css/images/2 – canggu bakehouse.jpg" title="CangguBakehouse" caption="Canggu Bakehouse" %}
@@ -28,19 +28,22 @@ Soal harga, memang lebih mahal dari *croissant* yang dijual *bakery franchise*, 
 
 *Here’s my rating and reviews for Canggu Bakehouse’s croissants.* Sebelumnya, gue baru coba beberapa varian rasa dan akan balik untuk coba varian lainnya. *So, please be aware there might be a new post for an update of this reviews.*
 
-##Croissant – Vanilla Salted Caramel
+## Croissant – Vanilla Salted Caramel
+
 **Rp 28.000**
 **9/10**
 
 *Flaky, buttery, and sweet.* Akan jauh lebih enak kalau langsung dimakan. Tekstur *filling*-nya lembut, rasa *vanilla*-nya cukup kuat, dan nggak terlalu manis. *Filling*-nya juga nggak pelit. *Overall* suka banget, mungkin karena gue juga suka rasa *vanilla*. Ada *topping caramel crust* dan kayaknya mereka juga kasih antara *caramel glazed* di atas *croissant*-nya atau ditaburi bubuk *caramel* gitu. Lumayan ngeyangin, jadi cocok untuk sarapan atau cuma mau ganjal perut. Sangat rekomen buat kalian yang suka atau lagi mau rasa manis. Setiap mampir lagi, ini varian rasa yang pasti gue beli.
 
-##Croissant – Smoked Beef and Cheese
+## Croissant – Smoked Beef and Cheese
+
 **Rp 30.000**
 **9/10**
 
 Kalau tadi manis, sekarang gurih. Rasanya nggak kalah sama yang sebelumnya. *Croissant*-nya *flaky* dan *buttery* juga. Di dalamnya ada *smoked beef, cheese,* dan saus *mayonnaise.* Yang paling penting, isiannya nggak pelit! Varian yang ini menurut gue lebih ngenyangin, mungkin karena ada lebih banyak protein di isiannya. Untuk varian ini kayaknya harus banget minta dihangatin biar lebih enak waktu dimakan. Buat kalian yang lebih suka gurih atau mau yang lebih ngenyangin, varian *smoked beef and cheese* ini sangat rekomen.
 
-##Croissant – Srikaya
+## Croissant – Srikaya
+
 **6/10**
 
 Harganya lupa, huhuhu. Struk belanjanya juga ilang, tapi kayaknya, sih, harganya **Rp 28.000**. Gue beli varian ini di cabang Pos Bloc, tapi terakhir liat menu mereka udah nggak ada lagi. Ya, gimanapun itu tetap akan gue *review*. Untuk *croissant* tekstur, *flaky,* dan *buttery*-nya tetap sama dengan varian *croissant* lainnya. Sebagai penyuka srikaya, *very sad to say* rasanya biasa aja, *nothing special*. Varian yang ini nggak ada *filling*-nya, jadi srikayanya itu ada di bagian atas *croissant* atau sebagai *shell*-nya gitu. *Simple*-nya kayak bagian luarnya *choux*. Di luar dari itu semua, tetap enak, kok, tapi gue lebih pilih untuk coba varian rasa lainnya.
