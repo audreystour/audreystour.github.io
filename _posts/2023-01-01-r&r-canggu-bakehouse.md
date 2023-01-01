@@ -3,7 +3,7 @@ layout: post
 title: "R&R - Canggu Bakehouse"
 description: "First review for Canggu Bakehouse."
 date: 2023-01-01
-feature_image: assets/css/images/1 – thumbnail canggu bakehouse.jpg
+feature_image: assets/css/images/1 - thumbnail canggu bakehouse.jpg
 tags: [Culinary]
 ---
 
@@ -12,7 +12,7 @@ Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau di
 *Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account [@canggubakehouse.id](https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id")*. Percaya sama gue, *you won’t regret it.*
 <!--more-->
 
-{% include image_caption.html imageurl="assets/css/images/2 – canggu bakehouse.jpg" title="CangguBakehouse" caption="Canggu Bakehouse" %}
+{% include image_caption.html imageurl="assets/css/images/2 - canggu bakehouse.jpg" title="CangguBakehouse" caption="Canggu Bakehouse" %}
 
 > “In my darkest moments, I have not eaten an entire pie, but I have turned to other baked goods to find solace.” <br> - David Lowery
 
@@ -24,7 +24,7 @@ Soal harga, memang lebih mahal dari *croissant* yang dijual *bakery franchise*, 
 
 > “With enough butter, anything is good.” <br> - Julia Child
 
-{% include image_caption.html imageurl="assets/css/images/3 – canggu bakehouse.jpg" title="EuropeOnScreen" caption="Audrey & Naznien’s Croissants" %}
+{% include image_caption.html imageurl="assets/css/images/3 - canggu bakehouse.jpg" title="EuropeOnScreen" caption="Audrey & Naznien’s Croissants" %}
 
 *Here’s my rating and reviews for Canggu Bakehouse’s croissants.* Sebelumnya, gue baru coba beberapa varian rasa dan akan balik untuk coba varian lainnya. *So, please be aware there might be a new post for an update of this reviews.*
 
