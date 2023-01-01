@@ -8,7 +8,7 @@ tags: [Culinary]
 comments: true
 ---
 
-Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau disuruh pilih sumber karbohidrat, urutan pertama buat gue itu nasi, disusul mie, baru roti. Salah satu alasan kenapa nggak terlalu suka roti karena bikin seret HAHAHA. Kalian begitu juga nggak, sih?
+Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau diurutin, yang paling gue suka itu nasi, disusul mie, baru roti. Salah satu alasan kenapa nggak terlalu suka roti karena lebih susah dikunyah dan bikin seret HAHAHA. Kalian begitu juga nggak, sih?
 
 *Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account [@canggubakehouse.id](https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id")*. Percaya sama gue, *you won’t regret it.*
 <!--more-->
@@ -23,9 +23,9 @@ Untuk menu di Canggu Bakehouse ini, jelas pemeran utamanya adalah *croissant.* A
 
 Soal harga, memang lebih mahal dari *croissant* yang dijual *bakery franchise*, tapi sangat *worth it* karena rasanya nggak kayak *croissant* abal. *Flaky* dan *buttery*-nya dapet, selain itu juga *crunchy* dan empuk. Salah satu yang nggak bisa bikin gue lewat begitu aja adalah aromanya yang enak banget, huhuhu. Dua aroma terbaik di dunia jatuh kepada aroma bioskop dan aroma *freshly baked goods*. Oh, iya! Bisa banget untuk minta dihangatin terlebih dahulu, ya.
 
-> “With enough butter, anything is good.” <br> - Julia Child
-
 {% include image_caption.html imageurl="assets/css/images/3 - canggu bakehouse.jpg" title="EuropeOnScreen" caption="Audrey & Naznien’s Croissants" %}
+
+> “With enough butter, anything is good.” <br> - Julia Child
 
 *Here’s my rating and reviews for Canggu Bakehouse’s croissants.* Sebelumnya, gue baru coba beberapa varian rasa dan akan balik untuk coba varian lainnya. *So, please be aware there might be a new post for an update of this reviews.*
 
@@ -49,7 +49,7 @@ Harganya lupa, huhuhu. Struk belanjanya juga ilang, tapi kayaknya, sih, harganya
 
 {% include image_caption.html imageurl="assets/css/images/4 - canggu bakehouse.jpg" title="HappyAudreyWithCroissants" caption="" %}
 
-Yang bikin *happy* selain soal rasa yang gue nggak ragu lagi untuk balik supaya bisa cobain semua variannya adalah pelayanannya yang nggak kalah baik. Semua karyawannya ramah dan selama gue pesan mereka nggak memburu-burui gue untuk cepat pilih. Kalau kalian tipe yang sama kayak gue, yang kalau sampai di tempat malah jadi bingung karena tertarik buat beli semuanya, tinggal bilang mau lihat varian rasanya dulu aja (tapi jangan sambil ngantri juga, kasian yang di belakang, ya). Atau bisa juga tanya rekomendasi menu, misal menu apa yang *favorite* atau varian rasa apa yang sesuai dengan lidah kalian. *Packaging takeout* mereka juga oke banget, *safe and secure,* sangat nyaman untuk di bawa pulang. Mereka juga rutin adain promo, jadi bisa banget buat tanya supaya dompet nggak cemberut.
+Yang bikin *happy* selain soal rasa yang gue nggak ragu lagi untuk balik supaya bisa cobain semua variannya adalah pelayanannya yang nggak kalah baik. Semua karyawannya ramah dan selama gue pesan mereka nggak memburu-burui gue untuk cepat pilih. Kalau kalian tipe yang sama kayak gue, yang kalau sampai di tempat malah jadi bingung karena tertarik buat beli semuanya, tinggal bilang mau lihat varian rasanya dulu aja (tapi jangan sambil ngantri juga, kasian yang di belakang, ya). Atau bisa tanya rekomendasi menu, misal menu apa yang *favorite* atau varian rasa apa yang sesuai dengan lidah kalian. *Packaging takeout* mereka juga oke banget, *safe and secure,* selain *packaging* yang ada di atas, mereka juga sedia *paper bag* yang ada *handle*-nya, jadi sangat nyaman untuk di bawa pulang. Canggu Bakehouse ini juga rutin adain promo, jadi bisa banget buat tanya supaya dompet nggak cemberut.
 
 {% include image_caption.html imageurl="assets/css/images/5 - canggu bakehouse.jpg" title="AudreyBimaCroissants" caption="Two Little Pigs" %}
 
