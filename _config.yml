@@ -12,7 +12,7 @@ lang: en-US
 title: "Audrey's Tour"
 
 # A description of your site for meta tag, search engine results.
-description: "Audrey’s Tour provides you food, places, and entertainment recommendation. Also, fun journal stories to read."
+description: " Audrey’s Tour provides you food, places, and entertainment recommendations. Also, fun journal stories to read."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
