@@ -10,7 +10,7 @@ comments: true
 
 Gue nggak terlalu suka *baked goods* kecuali *dessert* dan *croissant*. Kalau diurutin, yang paling gue suka itu nasi, disusul mie, baru roti. Salah satu alasan kenapa nggak terlalu suka roti karena lebih susah dikunyah dan bikin seret HAHAHA. Kalian begitu juga nggak, sih?
 
-*Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account [@canggubakehouse.id](https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id")*. Percaya sama gue, *you won’t regret it.*
+*Anyway, croissant* selalu punya tempat *special* diperut gue karena *I like the buttery smell and the flaky texture of it.* Sayangnya susah, ya, bun, buatnya. Selain itu, sedih juga karena banyak *bakery franchise* di Indonesia yang jual *croissant* tapi pakainya adonan *pastry,* huhuhu, mungkin biar hemat waktu dan biaya kali, ya? Sampai suatu hari, gue nggak sedih lagi karena algortima Instagram mempertemukan gue dengan Canggu Bakehouse. *You can visit their Instagram account* [@canggubakehouse.id](https://www.instagram.com/canggubakehouse.id/ "@canggubakehouse.id"). Percaya sama gue, *you won’t regret it.*
 <!--more-->
 
 {% include image_caption.html imageurl="assets/css/images/2 - canggu bakehouse.jpg" title="CangguBakehouse" caption="Canggu Bakehouse" %}
