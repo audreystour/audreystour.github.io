@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MoRe – Movie Recommendations to Sooth You"
-description: "Movie Recommendations to Sooth You."
+title: "MoRe – Movie Recommendations to Soothe You"
+description: "Movie Recommendations to Soothe You."
 date: 2023-06-27
 feature_image: assets/css/images/Thumbnail MoRe 1.png
 tags: [Movies]
