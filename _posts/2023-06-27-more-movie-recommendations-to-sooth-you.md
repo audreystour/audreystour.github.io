@@ -9,9 +9,9 @@ tags: [Movies]
 
 > “Movies are like an expensive form of therapy for me.” <br> - Tim Burton
 
-*Are you feeling demotivated? Like you don’t want to leave your bed, not even answering someone's chat that's already been there in the last two days? You want to do something but you're out of energy, and sometimes it makes you want to cry because "Why am I so lazy?"
+*Are you feeling demotivated? Like you don’t want to leave your bed, not even answering someone's chat that's already been there in the last two days? You want to do something but you're out of energy, and sometimes it makes you want to cry because "Why am I so lazy?"*
 
-Well, maybe you should do something. What I mean is watching movies. Actual movies that calm you down. These are my go-to movies to sweep off those demotivating and sad moments and finally be productive again.*
+*Well, maybe you should do something. What I mean is watching movies. Actual movies that calm you down. These are my go-to movies to sweep off those demotivating and sad moments and finally be productive again.*
 <!--more-->
 
 ## 1. Only Yesterday (1991)
