@@ -35,7 +35,7 @@ Alurnya sendiri maju mundur, menceritakan tentang awal karir Julia sebagai koki 
 Satu lagi. Nggak tahu kenapa, gue nangis nontonnya. Bukan karena sedih. Tapi karena somehow Julia menjadi sosok Ibu yang selalu ada di samping Julie padahal mereka ada di dua waktu yang jauh berbeda. *Their character grows in my heart, and whenever I stumble upon this movie*, gue mau peluk mereka, huhuhu.
 
 ## 3. Emma. (2020)
-{% include image_caption.html imageurl="assets/css/images/Emma (2020).jpg" title="Emma. (2020)" caption="Source: Pinterest" %}
+{% include image_caption.html imageurl="assets/css/images/Emma. (2020).jpg" title="Emma. (2020)" caption="Source: Pinterest" %}
 
 *This movie never fails to make me happy. The color and beauty in every scene, the pace of the story, the costumes, and even all the characters are unique.* Emma diadaptasi dari novel Jane Austen yang dinaskahi oleh Eleanor Catton dan diarahkan oleh Autumn de Wilde. Di salah satu surat Jane Austen untuk keponakannya, Jane Austen bilang, *“I am going to write about a heroine that no one but me will like.”* *Sorry*, Jane Austen… Tapi aku juga suka banget sama karakter Emma hehehe. *Watch the trailer here* [Emma. (2020)](https://youtu.be/qsOwj0PR5Sk "Emma. (2020)").
 
