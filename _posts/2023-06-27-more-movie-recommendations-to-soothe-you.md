@@ -26,7 +26,7 @@ Singkatnya, Only Yesterday bercerita tentang seorang wanita bernama Taeko Okajim
 ## 2. Julie & Julia (2009)
 {% include image_caption.html imageurl="assets/css/images/Julie and Julia (2009).jpg" title="Julie & Julia (2009)" caption="Source: Pinterest" %}
 
-*Never have I thought this movie would soothe me so much.* *Julie & Julia is written and directed by Nora Ephron.* Diadaptasi dari kisah nyata, Julie Powell menantang dirinya sendiri untuk memasak seluruh resep (524 resep) yang ada di dalam buku resep karya Julia Child dalam kurun waktu 365 hari atau satu tahun. Tantangannya itu, Julie ketik di blog pribadinya *and later it became a hit.* *Watch the trailer here* [Julie & Julia (2009)](https://youtu.be/ozRK7VXQl-k "Julie & Julia (2009)").*
+*Never have I thought this movie would soothe me so much.* *Julie & Julia is written and directed by Nora Ephron.* Diadaptasi dari kisah nyata, Julie Powell menantang dirinya sendiri untuk memasak seluruh resep (524 resep) yang ada di dalam buku resep karya Julia Child dalam kurun waktu 365 hari atau satu tahun. Tantangannya itu, Julie ketik di blog pribadinya *and later it became a hit.* *Watch the trailer here* [Julie & Julia (2009)](https://youtu.be/ozRK7VXQl-k "Julie & Julia (2009)").
 
 Alurnya sendiri maju mundur, menceritakan tentang awal karir Julia sebagai koki di tahun 1950-an dan kisah Julie di tahun 2002. Yang tanpa dia sadari, tantangannya membawa pengaruh besar dikehidupannya. Nggak cuma ke diri sendiri, tapi orang-orang terdekat, bahkan karirnya.
 
